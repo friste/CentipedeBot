@@ -1,0 +1,10 @@
+```
+commands
+
+.catch:        catch a random centipede to own as a pet
+.release:      release your existing centipede pet
+.rename:       change your centipede's name
+.view:         view your centipede in its terrarium
+.fight <user>: have your centipede fight <user>'s centipede
+.hug:          hug your centipede
+```
